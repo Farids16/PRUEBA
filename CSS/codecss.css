@@ -1,0 +1,139 @@
+.container
+{
+    width: 80%;
+    height: 100%;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2%;
+    overflow: hidden;
+    text-align: center;
+    margin: 2% auto;
+}
+
+.pagina
+{
+    background-color: rgb(255, 255, 255);
+    margin: 2%;
+}
+
+.header
+{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    overflow:hidden;
+    text-align: left;
+    width: 98%;
+    padding: 0%;
+    
+}
+
+li{
+    display: inline;
+    border: 2px solid rgb(0, 0, 0);
+    background-color:rgb(255, 0, 0);
+    padding: 0px;
+    
+}
+a{
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+}
+
+.main{
+    background-color: rgb(255, 255, 255);
+    width: 97%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
+.imagen
+{
+    
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.noticias
+{
+    width: 96%;
+    border: 1px solid rgb(0, 0, 0);
+    overflow: hidden;
+    padding: 1%;
+    margin: 1%;
+    
+}
+
+
+.texto1
+{
+    background-color: rgb(255, 255, 255);
+    width: 45%;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    text-align: left;
+}
+
+.texto2
+{
+    background-color: rgb(255, 255, 255);
+    width: 45%;
+    padding: 5px;
+    margin: 5px;
+    float: right;
+    text-align: left;
+}
+
+.title
+{
+    text-align: left;
+
+}
+
+.icono
+{
+    text-align: right;
+    width: 15%;
+    
+    
+}
+.galeria
+{
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+    margin: 5px;
+    float: left;
+}
+.cora
+{
+    
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    overflow: hidden;
+    width: 10%;
+}
+.footer{
+    background-color: rgb(255, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    text-align: right;
+    padding: 10px;
+    margin: 5px;
+    overflow: hidden;
+    width: 97%;
+    
+}
+.redes
+{
+    text-align: right;
+    padding: 10px;
+    margin: 5px;
+    overflow: hidden;
+    width: 5%;
+    float: left;
+}
